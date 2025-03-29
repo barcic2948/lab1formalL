@@ -1,6 +1,20 @@
-asd			qwe			         qwe         qwe         qwe
-asd         qwe 		        qwe         qwe         qwe
-asd    		     qwe         qwe         qwe         qwe
-asd         qwe         qwe         qwe         qwe
-asd		qwe         qwe         qwe         qwe
-asd         qwe  		       qwe         qwe         qwe
+// This is a single-line comment and should be ignored
+bool isReady = true;  // Another comment after a statement
+
+int sum = a + b - c * d / e; /* This is a 
+multi-line comment that should be ignored */
+
+if (sum >= 100) {
+    cout << "Sum is large";  // Printing a message
+}
+
+/* Multi-line comment with
+   some more text that should
+   not appear in output */
+   
+string name = "ChatGPTqweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee";
+float percentage = 98.6;
+char symbol = '$';
+
+arr[5] = (x + y) * 2;
+<ThisIsNotATag>
